@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:1;a:8:{s:5:"photo";a:3:{s:3:"src";s:44:"content/uploadfile/201605/ed551462872260.jpg";s:5:"width";i:99;s:6:"height";i:97;}s:6:"avatar";s:44:"content/uploadfile/201605/ed551462872260.jpg";s:9:"name_orig";s:6:"冰鹰";s:4:"name";s:6:"冰鹰";s:4:"mail";s:17:"bingying2@163.com";s:3:"des";s:69:"虽说只是一枚小小的程序猿，但是也得保持成长对不";s:7:"ischeck";s:1:"n";s:4:"role";s:5:"admin";}}

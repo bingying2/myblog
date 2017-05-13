@@ -1,0 +1,1 @@
+<?php exit;//a:4:{i:1;a:3:{s:4:"name";s:12:"闲言杂语";s:2:"id";s:1:"1";s:5:"alias";s:6:"others";}i:2;a:3:{s:4:"name";s:15:"计算机基础";s:2:"id";s:1:"2";s:5:"alias";s:8:"computer";}i:4;a:3:{s:4:"name";s:15:"服务器管理";s:2:"id";s:1:"3";s:5:"alias";s:6:"server";}i:5;a:3:{s:4:"name";s:15:"计算机基础";s:2:"id";s:1:"2";s:5:"alias";s:8:"computer";}}
